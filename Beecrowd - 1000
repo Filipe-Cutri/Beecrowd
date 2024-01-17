@@ -1,0 +1,9 @@
+//Beecrowd 1000
+//Autor: Filipe Alberto Cutri
+#include <stdio.h>
+ 
+int main() {
+    printf("Hello World!\n");
+ 
+    return 0;
+}
