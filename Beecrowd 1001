@@ -1,0 +1,16 @@
+//Beecrowd 1001
+//Autor: Filipe Alberto Cutri
+#include <stdio.h>
+ 
+int main() {
+    int A,B,X,soma;
+    
+    scanf("%d", &A);
+    scanf("%d", &B);
+    
+    soma = A+B;
+    X = soma;
+    printf("X = %d\n",soma);
+
+    return 0;
+}
