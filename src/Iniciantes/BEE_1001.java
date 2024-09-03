@@ -1,3 +1,5 @@
+package Iniciantes;
+
 import java.util.Scanner;
 public class BEE_1001 {
     public static void main(String[] args) {
