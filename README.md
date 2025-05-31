@@ -1,4 +1,4 @@
-# 🚀 Beecrowd - Resolução de Exercícios
+# Beecrowd - Resolução de Exercícios
 
 Bem-vindo(a) ao meu repositório! Aqui estão todas as soluções que desenvolvi para os desafios da plataforma [Beecrowd](https://judge.beecrowd.com/pt/profile/1035557), onde treino e aprimoro minhas habilidades em lógica de programação.  
 
